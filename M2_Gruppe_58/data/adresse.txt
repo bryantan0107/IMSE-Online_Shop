@@ -1,0 +1,100 @@
+Krankenhausstraße 4, Zimmer 649, 2359, Übelbach, Wien, Austria
+Niedergams 1, 8 OG, 5850, Zeillern, Vorarlberg, Austria
+Koloniestraße 01a, 9 OG, 9812, Krumbach, Niederösterreich, Austria
+Fuchsgrubenweg 53c, 3 OG, 5202, Ybbs an der Donau, Kärnten, Austria
+Dürnrohrer Straße 08, 4 OG, 6990, Finkenberg, Salzburg, Austria
+Geigergasse 171, Apt. 643, 6258, Vals, Wien, Austria
+Straßerau 042, Zimmer 987, 0883, Ybbs an der Donau, Burgenland, Austria
+Glanfeldbachweg 99a, Zimmer 640, 1697, Taxenbach, Kärnten, Austria
+Johann-Strauß-Gasse 6, Apt. 259, 4514, Hausleiten, Burgenland, Austria
+Weidenstraße 1, Zimmer 064, 5061, Jagerberg, Vorarlberg, Austria
+Bahngasse 85a, Zimmer 163, 5945, Pollham, Tirol, Austria
+Feldgasse 65, Apt. 557, 1501, Hochwolkersdorf, Kärnten, Austria
+Hussovits Gasse 61a, Apt. 052, 6536, Hinterhornbach, Niederösterreich, Austria
+Aufeldgasse 91c, Zimmer 203, 6911, Berndorf bei Salzburg, Oberösterreich, Austria
+Bruderhofgasse 70c, Zimmer 709, 2901, Yspertal, Oberösterreich, Austria
+Mühle 15b, Apt. 331, 1357, Fritzens, Niederösterreich, Austria
+Ebenthalerstraße 46b, 8 OG, 7462, Bergern im Dunkelsteinerwald, Vorarlberg, Austria
+Schaunbergerstraße 55, Zimmer 034, 0932, Neukirchen an der Enknach, Wien, Austria
+Kirchweg 02c, 6 OG, 5246, Gams bei Hieflau, Oberösterreich, Austria
+Feldstapfe 03b, Zimmer 980, 4292, Hartl, Salzburg, Austria
+Mühlenweg 677, Apt. 960, 0141, Aigen im Mühlkreis, Wien, Austria
+Unterer Sonnrainweg 0, Zimmer 968, 2355, Trieben, Kärnten, Austria
+Drautal Bundesstraße 683, Zimmer 821, 6851, Lech, Wien, Austria
+Alte Ufergasse 10a, Zimmer 498, 7437, Kindberg, Tirol, Austria
+Radetzkystraße 90, Apt. 914, 9794, Wien, Kärnten, Austria
+Berggasse 3, Zimmer 066, 6635, Preitenegg, Niederösterreich, Austria
+Janzgasse 85, Zimmer 640, 7708, Ratten, Oberösterreich, Austria
+Feldgasse 73a, Apt. 395, 2140, Waidhofen an der Thaya, Tirol, Austria
+Schulgasse (Langeck) 70, Zimmer 137, 4736, Dienten am Hochkönig, Niederösterreich, Austria
+Grub 90b, Apt. 089, 1060, Bergern im Dunkelsteinerwald, Niederösterreich, Austria
+Thomas Koschat-Gasse 11c, Zimmer 788, 1452, Lödersdorf, Wien, Austria
+Erlenweg 3, Zimmer 182, 6655, Neukirchen an der Enknach, Tirol, Austria
+Bahnhofstraße 141, Apt. 311, 6173, Linz, Burgenland, Austria
+Fischpointweg 26, 0 OG, 8982, Lödersdorf, Wien, Austria
+Verwaltersiedlung 81a, Apt. 053, 4334, St. Pölten, Steiermark, Austria
+Römerweg 04c, Apt. 617, 9787, Baumgartenberg, Niederösterreich, Austria
+Kegelprielstraße 6, Zimmer 235, 4258, Neudorf bei Staatz, Salzburg, Austria
+Erlenstraße 82, Zimmer 546, 8561, Herzogenburg, Vorarlberg, Austria
+Gösting 91a, Zimmer 150, 8719, Ungerdorf, Oberösterreich, Austria
+Raiden 40, Zimmer 875, 9027, Allerheiligen bei Wildon, Steiermark, Austria
+Graben (Burgauberg) 58c, Zimmer 877, 4316, Innsbruck, Vorarlberg, Austria
+Spiesmayrweg 76b, Zimmer 226, 2235, Lech, Niederösterreich, Austria
+Fritz-Pregl-Straße 18b, Apt. 178, 2941, Innerbraz, Burgenland, Austria
+Kerpelystraße 9, Apt. 897, 8120, St. Veit an der Glan, Oberösterreich, Austria
+Schloßweg 2, 6 OG, 9446, Rastenfeld, Wien, Austria
+Julius-Raab-Straße 46b, Apt. 971, 3642, Vals, Niederösterreich, Austria
+Lindenweg 76a, Zimmer 458, 8140, Johnsbach, Kärnten, Austria
+Feldstapfe 953, 7 OG, 4823, Waidhofen an der Thaya, Burgenland, Austria
+Bahnstraße (Gerhaus) 317, Apt. 075, 3064, Vals, Kärnten, Austria
+Feichteggerwiese 8, Zimmer 138, 9926, Marbach an der Donau, Steiermark, Austria
+Brunnelligasse 56c, Zimmer 466, 2724, Wien, Vorarlberg, Austria
+Mittlere Hauptstraße 89c, Zimmer 478, 2931, Ybbs an der Donau, Niederösterreich, Austria
+Drautal Bundesstraße 25, 7 OG, 6106, Velden am Wörther See, Salzburg, Austria
+Ahorngasse (St. Andrä) 337, Zimmer 276, 1018, Niederleis, Steiermark, Austria
+Klingergasse 22a, Apt. 715, 0601, Graz, Kärnten, Austria
+Spiesmayrweg 36b, Zimmer 382, 0892, Oberwaltersdorf, Burgenland, Austria
+Reichensteinstraße 02c, 7 OG, 8250, Velden am Wörther See, Niederösterreich, Austria
+Mühlenweg 0, Apt. 603, 7066, Mattsee, Steiermark, Austria
+Seestraße 48, 7 OG, 4234, Dietach, Tirol, Austria
+Flurweg 98a, Apt. 584, 0479, Mattsee, Steiermark, Austria
+Ahorn 09c, Apt. 531, 0361, Neudorf bei Staatz, Steiermark, Austria
+Rupertistraße 396, Zimmer 726, 9944, Raiding, Vorarlberg, Austria
+Raiden 82a, Zimmer 459, 1515, Neudorf bei Staatz, Oberösterreich, Austria
+Mühlenweg 8, Apt. 680, 1142, Übersbach, Niederösterreich, Austria
+Auf der Stift 7, Apt. 666, 5149, Salzburg, Vorarlberg, Austria
+Koloniestraße 154, Apt. 191, 2944, Unterstinkenbrunn, Steiermark, Austria
+Kleinbaumgarten 935, 5 OG, 6234, Gams bei Hieflau, Oberösterreich, Austria
+Höggen 81b, Zimmer 943, 2985, Öblarn, Vorarlberg, Austria
+Weiherweg 3, 9 OG, 0938, Dienten am Hochkönig, Wien, Austria
+Musikpavillon Riezlern 58, 3 OG, 8686, Ludesch, Burgenland, Austria
+Konrad-Duden-Gasse 5, Apt. 737, 2542, Vals, Wien, Austria
+Schloßweg 99b, Apt. 457, 0550, Waidhofen an der Thaya, Vorarlberg, Austria
+Lerchengasse (Pirka) 45b, Apt. 137, 7310, Hinterhornbach, Niederösterreich, Austria
+Tennweg 51a, Apt. 134, 7307, Lavamünd, Wien, Austria
+Gemeindeaugasse 8, 3 OG, 2953, Purbach am Neusiedler See, Wien, Austria
+Ringweg 7, Zimmer 330, 2412, Neudorf bei Passail, Tirol, Austria
+Tennweg 59a, 7 OG, 9612, Ellmau, Burgenland, Austria
+Am Färberberg 59, 5 OG, 9127, St. Peter am Kammersberg, Steiermark, Austria
+Schönholdsiedlung 08b, Zimmer 907, 9726, Taxenbach, Wien, Austria
+Feldstapfe 3, Apt. 103, 1370, Jagerberg, Niederösterreich, Austria
+Schloßweg 3, Zimmer 084, 6745, Purbach am Neusiedler See, Burgenland, Austria
+Geigen 313, Zimmer 413, 8862, Pitschgau, Burgenland, Austria
+Am Kronawett (Hagenbrunn) 6, Zimmer 960, 0115, Innerbraz, Salzburg, Austria
+Neustiftgasse 11, 1 OG, 0867, Waidhofen an der Thaya, Burgenland, Austria
+Geigen 22, Zimmer 250, 4026, Vitis, Steiermark, Austria
+Uferstraße (Schwarzau am Steinfeld) 57c, 2 OG, 5716, Mattsee, Niederösterreich, Austria
+Auer-von-Welsbach-Weg 73a, 8 OG, 0246, Marbach an der Donau, Burgenland, Austria
+Alleestraße (Poysbrunn) 936, Apt. 044, 5176, Sankt Johann im Saggautal, Wien, Austria
+Koloniestraße 329, Apt. 515, 5884, Gams bei Hieflau, Wien, Austria
+Geigen 65, Apt. 934, 3120, Itter, Salzburg, Austria
+Fuchsgrubenweg 46, Apt. 903, 6756, Pilgersdorf, Burgenland, Austria
+Herminengasse 54c, Apt. 802, 1225, Übelbach, Kärnten, Austria
+Donaugasse 903, Apt. 653, 3147, Lech, Salzburg, Austria
+Stöpflweg 850, 9 OG, 1568, Wien, Oberösterreich, Austria
+Blasiussteig 21b, 8 OG, 8955, Ungerdorf, Tirol, Austria
+Kirchenplatz 12b, Apt. 140, 8581, Neustift an der Lafnitz, Niederösterreich, Austria
+Feld-Weg 09, Apt. 835, 4580, Ellmau, Burgenland, Austria
+Rupertistraße 5, Apt. 508, 9799, Frantschach-St. Gertraud, Niederösterreich, Austria
+Raiden 74, 1 OG, 4100, Mautern an der Donau, Wien, Austria
+Hermann von Gilmweg 433, Zimmer 028, 5561, Ort im Innkreis, Tirol, Austria

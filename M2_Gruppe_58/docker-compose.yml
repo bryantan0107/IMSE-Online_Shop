@@ -1,0 +1,51 @@
+version: '3.9'
+services:
+  frontend:
+    build: ./
+    container_name: frontend
+    ports: 
+      - 5001:5000
+    networks: 
+      - default-network
+    volumes:
+      - default-volume:/app
+    depends_on:
+      - db
+      - mongodb
+    restart: always
+  db:
+    image: mysql
+    container_name: sql
+    restart: always
+    environment:
+      MYSQL_DATABASE: sql_db
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: password
+    networks: 
+      - default-network
+    volumes:
+      - default-volume:/var/lib/mysql
+    ports:
+      - "3306:3306"
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: user
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: mongo_db
+    networks: 
+      - default-network
+    volumes:
+      - default-volume:/var/lib/mongodb
+    expose:
+      - 27017
+    restart: always
+
+networks:
+  default-network:
+    name: default-network
+
+volumes:
+  default-volume:

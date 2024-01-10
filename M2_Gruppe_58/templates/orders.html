@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Orders{% endblock %}
+{% block nav_brand %}Homepage{% endblock %}
+{% block nav_link_products %}Products{% endblock %}
+{% block nav_link_orders %}Orders{% endblock %}
+{% block nav_link_report1 %}Top-reviewed Items{% endblock %}
+{% block nav_link_report2 %}Top-bonus-points Cutomers{% endblock %}
+{% block nav_link_logout %}Logout{% endblock %}
+
+
+{% block content %}
+<!-- Table for all orders -->
+<h1>orders</h1>
+<br>
+<table class="Table">
+  <tr>
+    <th>Order Id</th>
+    <th>Product</th>
+    <th>quantity</th>
+	<th>total price</th>
+	<th>delivery date</th>
+  </tr>
+  {% for order in order %}
+    <tr>
+      <td>{{ order[0] }}</td>
+      <td>{{ order[5] }}</td>
+	  <td>{{ order[1] }}</td>
+      <td>{{ order[3] }}</td>
+	  <td>{{ order[2] }}</td>
+
+    </tr>
+  {% endfor %}
+</table>
+{% endblock %}

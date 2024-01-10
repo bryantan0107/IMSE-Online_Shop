@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %}Report 1{% endblock %}
+{% block nav_brand %}Homepage{% endblock %}
+{% block nav_link_products %}Products{% endblock %}
+{% block nav_link_orders %}Orders{% endblock %}
+{% block nav_link_report1 %}Top-reviewed Items{% endblock %}
+{% block nav_link_report2 %}Top-bonus-points Cutomers{% endblock %}
+{% block nav_link_logout %}Logout{% endblock %}
+
+{% block content %}
+<h1>List of top reviewers</h1>
+
+<form method="POST" action="{{ url_for('report1') }}">
+    <label for="category">Select Category:</label>
+    <select name="category" id="category">
+        <option value="All">All</option>
+        <option value="Women">Women</option>
+        <option value="Men">Men</option>
+        <option value="Sale">Sale</option>
+        <option value="Accesoires">Accessories</option>
+        <option value="Kids">Kids</option>
+    </select>
+    <button type="submit">Submit</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Item id</th>  
+            <th>Name</th>
+            <th>Category</th> 
+            <th>Count of Reviews</th>  
+        </tr>
+    </thead>
+    <tbody>
+        {% for employee in employees %}
+        <tr>
+            <td>{{ employee[0] }}</td>  
+            <td>{{ employee[1] }}</td>  
+            <td>{{ employee[2] }}</td>  
+            <td>{{ employee[3] }}</td>  
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}

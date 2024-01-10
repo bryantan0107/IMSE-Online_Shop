@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block title %}Products{% endblock %}
+{% block nav_brand %}Homepage{% endblock %}
+{% block nav_link_products %}Products{% endblock %}
+{% block nav_link_orders %}Orders{% endblock %}
+{% block nav_link_report1 %}Top-reviewed Items{% endblock %}
+{% block nav_link_report2 %}Top-bonus-points Cutomers{% endblock %}
+{% block nav_link_logout %}Logout{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1 class="text-center">Available Products</h1>
+  <br>
+  <div class="table-responsive">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Item</th>
+          <th>Price</th>
+          <th>Category</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for p in produkt %}
+        <tr>
+          <td>{{ p[0] }}</td>
+          <td>{{ p[1] }}</td>
+          <td>{{ p[2] }} €</td>
+          <td>{{ p[3] }}</td>
+          <td>
+            <button class="btn btn-primary" onclick="popupWindow('{{ p[0] }}')">Add to Order</button>
+            <button class="btn btn-primary" onclick="add_review('{{ p[0] }}')">Add Review</button>
+            <button class="btn btn-info" onclick="view_reviews('{{ p[0] }}')">View Reviews</button>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    function popupWindow(id) {
+      var anzahl = prompt("How many copies would you like?");
+
+      $.ajax({
+        type: 'POST',
+        url: '/use_case2',
+        data: {
+          'id': id,
+          'anzahl': anzahl
+        },
+        success: function(response) {
+          if (alert(response)) {}
+          else {
+            window.location.reload();
+          }
+        }
+      });
+    }
+
+    function view_reviews(id) {
+      $.ajax({
+        type: 'POST',
+        url: '/view_reviews',
+        data: {
+          'id': id
+        },
+        success: function(response) {
+          if (alert(response)) {}
+          else {
+            window.location.reload();
+          }
+        }
+      });
+    }
+
+    function add_review(id) {
+      var review = prompt("What is your review about the product?");
+
+      $.ajax({
+        type: 'POST',
+        url: '/add_review',
+        data: {
+          'id': id,
+          'review': review
+        },
+        success: function(response) {
+          if (alert(response)) {}
+          else {
+            window.location.reload();
+          }
+        }
+      });
+    }
+  </script>
+</div>
+{% endblock %}

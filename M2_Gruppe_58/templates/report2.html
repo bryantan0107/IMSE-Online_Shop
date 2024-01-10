@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Report 2{% endblock %}
+{% block nav_brand %}Homepage{% endblock %}
+{% block nav_link_products %}Products{% endblock %}
+{% block nav_link_orders %}Orders{% endblock %}
+{% block nav_link_report1 %}Top-reviewed Items{% endblock %}
+{% block nav_link_report2 %}Top-bonus-points Cutomers{% endblock %}
+{% block nav_link_logout %}Logout{% endblock %}
+
+{% block content %}
+<h1>List of top users by total purchases</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Username</th>
+            <th>Bonus points</th>
+            <th>Count of Reviews</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for user in users %}
+        <tr>
+            <td>{{ user[0] }}</td>
+            <td>{{ user[1] }}</td>
+            <td>{{ user[2] }}</td>
+            <td>{{ user[3] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}

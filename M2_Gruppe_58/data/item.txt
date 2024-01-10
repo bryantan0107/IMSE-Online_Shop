@@ -1,0 +1,100 @@
+Cargos
+Shoes 
+Heals
+Poncho
+slippers
+T-Shirt
+Longshirt
+Swimwear
+Coat
+Sunglasses
+Scarf
+Suit
+Boots
+Blouse
+Shirt
+Polo Shirt
+Dress
+Sweatshirt
+Blazer
+Jacket
+Shirt
+Jeans
+Socks
+Overall
+Jeansoverall
+Shorts
+Cardigan
+Hat
+Belt
+Trousers
+Chemise
+Vest
+Jumper
+Pullover
+Pyjama
+Sleepshirt
+Cap 
+Sandals
+Top
+Tanktop
+skirt
+jumpsuit
+Skinny Jeans
+3/4 Leggin
+Leggin
+Joggers
+Tie 
+Purse
+Wallet
+Backpack
+Hoodie
+Sneakers
+Sweater
+Watch
+Earrings
+Necklace
+Bracelet
+Ring
+Tunic
+Gloves
+Mittens
+Umbrella
+Tote Bag
+Crossbody Bag
+Leggings
+Romper
+Kimono
+Bodysuit
+Bikini
+Swimsuit
+Beach Towel
+Flip Flops
+Wedges
+Loafers
+Tie
+Cufflinks
+Pocket Square
+Messenger Bag
+Briefcase
+Duffle Bag
+Fedora
+Beanie
+Satchel
+Clutch
+Denim Jacket
+Maxi Dress
+Chinos
+Peplum Top
+Espadrilles
+Jute Bag
+Peacoat
+Fedora Hat
+Velvet Blazer
+Choker Necklace
+Lace-up Boots
+Harem Pants
+Off-Shoulder Blouse
+Pleated Skirt
+Tassel Earrings
+Bucket Bag

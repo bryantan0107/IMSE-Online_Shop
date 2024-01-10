@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Customer Page{% endblock %}
+{% block nav_brand %}Homepage{% endblock %}
+{% block nav_link_products %}Products{% endblock %}
+{% block nav_link_orders %}Orders{% endblock %}
+{% block nav_link_report1 %}Top-reviewed Items{% endblock %}
+{% block nav_link_report2 %}Top-bonus-points Cutomers{% endblock %}
+{% block nav_link_logout %}Logout{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h2 class="text-center">Welcome to our online store</h2>
+      <p class="text-center">Discover the latest trends in fashion and shop for your favorite clothing items.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 offset-md-3" style="margin-bottom: 20px;">
+      <img src="{{ url_for('static', filename='customer_page_img.jpg') }}" alt="image" class="img-fluid">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <h4 class="text-center">Explore Our Collection</h4>
+      <p class="text-center">Browse through our wide range of stylish clothing options for men and women.</p>
+      <div class="text-center">
+        <a href="/products" class="btn btn-primary">Shop Now</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
